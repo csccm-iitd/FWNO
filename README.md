@@ -18,34 +18,28 @@ Generative flow induced neural architecture search: Towards discovering optimal 
   |_ utilities3.py                   # Utility fuctions like  dataloader and loss functions
   |_ wno_1d_Burgers_super.py         # Super-resolution with Wavelet Neural Operator (for future work)
   |_ wno_1d_Burgers.py               # WNO for 1D Burgers
-  |_ 📂 Data                         
-      |_ burgers_data_N5000.mat      # Large dataset for Burgers Equation (5000 datapoints)
-      |_ burgers_data_R10.mat        # Main Dataset for Burgers Equation (1000 datapoints)
+  |_ 📂 Data                         # Folder to store data for the Burgers Equation
 
 📂 Darcy                       # 2D Darcy flow experiments and utilities
   |_ GFlowNet.py                      # FWNO for Darcy
   |_ MCTS.py                         # MCTS based NAS for Darcy
   |_ utilities3.py                   # Utility fuctions like  dataloader and loss functions
   |_ wno_2d_darcy.py                 # WNO for 2D Darcy flow
-  |_ 📂 Data                         
-      |_ piececonst_r421_N1024_smooth1.mat  # Training Dataset for Darcy Equation
-      |_ piececonst_r421_N1024_smooth2.mat  # Testing Dataset for Darcy Equation
+  |_ 📂 Data                         # Folder to store data for the Darcy Equation  in Rectangular Domain
 
 📂 Darcy_notch                 # 2D Darcy flow in triangular domain with a notch
   |_ GFlowNet.py                      # FWNO for Darcy notch
   |_ MCTS.py                         # MCTS based NAS for Darcy notch
   |_ utilities3.py                   # Utility fuctions like  dataloader and loss functions
   |_ wno_2d_Darcy_notch.py           # WNO for 2D Darcy notch
-  |_ 📂 Data                         
-      |_ Darcy_Triangular_FNO.mat    # Darcy Equation on triangular domain dataset
+  |_ 📂 Data                         # Folder to store data for the Darcy Equation in Triangular Domain and with a notch
 
 📂 Navier_Stokes               # 2D time-dependent Navier-Stokes experiments and utilities
   |_ GFlowNet.py                      # FWNO for Navier-Stokes
   |_ MCTS.py                         # MCTS based NAS for Navier-Stokes
   |_ utilities3.py                   # Utility fuctions like  dataloader and loss functions
   |_ wno_2d_time_NS.py               # WNO for 2D time-dependent Navier-Stokes
-  |_ 📂 Data                         
-      |_ ns_V1e-3_N5000_T50.mat      # Navier-Stokes dataset
+  |_ 📂 Data                         # Folder to store data for the Navier-Stokes Equation
 ```
 
 ## Essential Python Libraries
