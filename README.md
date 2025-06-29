@@ -8,7 +8,6 @@ Generative flow induced neural architecture search: Towards discovering optimal 
 ```
 📂 Burgers                     # 1D Burgers equation experiments and utilities
   |_ GFlowNet_Initializations.py      # FWNO with different initializations
-  |_ GFlowNet_LargeDataset.py         # FWNO on larger datasets
   |_ GFlowNet.py                      # FWNO for Burgers
   |_ MCTS.py                         # MCTS based NAS for Burgers
   |_ Random_Search.py                # Random search baseline for architecture search
