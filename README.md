@@ -2,7 +2,7 @@
 Generative flow induced neural architecture search: Towards discovering optimal architecture in wavelet neural operator
 
 + This repository also covers the codes of the following paper 
-  > + Thakur, A., Tripura, T., & Chakraborty, S. (2022). Multi-fidelity wavelet neural operator with application to uncertainty quantification. arXiv preprint arXiv:2208.05606. [Article](https://arxiv.org/pdf/2208.05606)
+  > + Soin, H., Tripura, T., & Chakraborty, S. (2024). Generative flow induced neural architecture search: Towards discovering optimal architecture in wavelet neural operator. arXiv preprint arXiv:2405.06910.. [Article](https://arxiv.org/abs/2405.06910)
 
 ## Files and Folders
 ```
