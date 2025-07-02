@@ -1,7 +1,7 @@
 # FWNO
 Generative flow induced neural architecture search: Towards discovering optimal architecture in wavelet neural operator
 
-+ This repository also covers the codes of the following paper 
++ This repository covers the codes of the following paper 
   > + Soin, H., Tripura, T., & Chakraborty, S. (2024). Generative flow induced neural architecture search: Towards discovering optimal architecture in wavelet neural operator. arXiv preprint arXiv:2405.06910.. [Article](https://arxiv.org/abs/2405.06910)
 
 ## Files and Folders
